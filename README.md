@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything but currently working on a private J.A.R.V.I.S.
 - 📫 I have zero social media accounts right now, will update this when I have some 😂
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Dolphins and humans are the only creatures on planet earth that sex for pleasure aswell as reproduction.
+- ⚡ Fun fact: Dolphins and humans are the only creatures on planet earth that have sex for pleasure aswell as reproduction.
 
 <!---
 SnP-Gamer/SnP-Gamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
