@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning code, simulation games and gaming in general.
 - 🌱 I’m currently learning Python3 
 - 💞️ I’m looking to collaborate on anything but currently working on a private J.A.R.V.I.S.
-- 📫 I have zero social media accounts right now, will update this when I have some 😂
+- 📫 Diecord: https://discord.gg/WQycsM58
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Dolphins and humans are the only creatures on planet earth that have sex for pleasure aswell as reproduction.
 
