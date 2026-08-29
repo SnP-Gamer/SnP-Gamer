@@ -17,35 +17,8 @@ A Python-based personal assistant project focused on:
 
 ---
 
-### 🖥️ Smart PC Dashboard (working title) — PC Control Centre
-A real-time system monitoring and control dashboard built with Python.
-
-Features:
-- CPU / RAM / disk monitoring
-- Live system stats
-- Clean UI dashboard
-- Built for performance control and visibility
-
----
-
-### 📁 Bulk File Renamer
-A powerful file management tool for batch renaming files quickly and safely.
-
-Features:
-- Bulk rename operations
-- Pattern-based renaming
-- Replace / prefix / suffix tools
-- Simple CLI & GUI versions
-
----
-
 ## 🧩 Tech I Use
 - Python (main language)
-- CustomTkinter / Tkinter
-- PyQt5
-- psutil
-- Windows automation tools
-- Git & GitHub
 
 ---
 
@@ -54,18 +27,11 @@ To build a fully modular AI-powered desktop ecosystem (JARVIS-style) that can:
 - Control my PC
 - Automate daily tasks
 - Act as a personal assistant
-- Grow into a full software suite (SnP Studios)
 
 ---
 
 ## 📌 Featured Projects
-- 
-- 
 
----
-
-## 🏗️ SnP Studios
-This account is the foundation of **SnP Studios** — a future software brand focused on automation tools, AI systems, and developer utilities.
 
 ---
 
